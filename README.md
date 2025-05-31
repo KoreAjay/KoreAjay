@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ajay Kore 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views" />
