@@ -3,7 +3,96 @@ README.md for Full Stack Developer Profile
 -->
 
 # 👋 Hi, I'm Ajay Kore — Full Stack Developer
-![image](https://github.com/user-attachments/assets/c9f18602-6ab3-44c6-8b3f-fdf6d3706c17)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Animated Developer</title>
+  <style>
+    body {
+      margin: 0;
+      background: linear-gradient(to right, #232526, #414345);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .scene {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .developer {
+      width: 250px;
+      height: 400px;
+      background: #2c3e50;
+      border-radius: 15px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+      animation: float 3s ease-in-out infinite;
+    }
+
+    .developer::before {
+      content: "👨‍💻";
+      font-size: 80px;
+    }
+
+    .pc {
+      width: 350px;
+      height: 250px;
+      background: #1abc9c;
+      margin-left: 30px;
+      border-radius: 15px;
+      position: relative;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+      overflow: hidden;
+    }
+
+    .screen {
+      color: white;
+      font-family: monospace;
+      padding: 20px;
+      white-space: pre-wrap;
+      animation: typing 6s steps(40, end) infinite;
+      font-size: 14px;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+  </style>
+</head>
+<body>
+  <div class="scene">
+    <div class="developer"></div>
+    <div class="pc">
+      <div class="screen">
+        &lt;html&gt;
+        &nbsp;&nbsp;&lt;head&gt;&lt;/head&gt;
+        &nbsp;&nbsp;&lt;body&gt;
+        &nbsp;&nbsp;&nbsp;&nbsp;&lt;h1&gt;Hello, GitHub!&lt;/h1&gt;
+        &nbsp;&nbsp;&nbsp;&nbsp;&lt;p&gt;Working on cool projects...&lt;/p&gt;
+        &nbsp;&nbsp;&lt;/body&gt;
+        &lt;/html&gt;
+      </div>
+    </div>
+  </div>
+</body>
+</html>
  About Me
 
 I'm a passionate **Full Stack Developer** with experience in Java, Advanced Java technologies, Python, C#, and modern front-end development. I love building scalable, maintainable, and high-performance applications both on backend and frontend.
