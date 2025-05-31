@@ -3,9 +3,9 @@ README.md for Full Stack Developer Profile
 -->
 
 # 👋 Hi, I'm Ajay Kore — Full Stack Developer
+![image](https://github.com/user-attachments/assets/2800bc77-ddca-4956-9b96-9241b35d60bd)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKedarnath-Rothe&psig=AOvVaw1XkvvOAXw7rNzca0P4v2Cd&ust=1748772127259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCIjxj_65zY0DFQAAAAAdAAAAABChAQ
-## 🚀 About Me
+ About Me
 
 I'm a passionate **Full Stack Developer** with experience in Java, Advanced Java technologies, Python, C#, and modern front-end development. I love building scalable, maintainable, and high-performance applications both on backend and frontend.
 
