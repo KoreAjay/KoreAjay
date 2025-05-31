@@ -18,8 +18,8 @@ I'm a passionate **Full Stack Developer** with expertise in both backend and fro
 ## 🛠️ Skills & Technologies
 
 ### Backend  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
-<img src="https://img.shields.io/badge/JDBC-02569B?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JDBC-02569B?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />  
+
 <img src="https://img.shields.io/badge/JSP-5E83BA?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />  
 <img src="https://img.shields.io/badge/Servlets-000000?style=for-the-badge&logo=java&logoColor=white" alt="Servlets" />  
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />  
