@@ -3,7 +3,7 @@ README.md for Full Stack Developer Profile
 -->
 
 # 👋 Hi, I'm Ajay Kore — Full Stack Developer
-https://chatgpt.com/s/m_683b30bd84108191a8be63f246fa8f20
+![image](https://github.com/user-attachments/assets/c9f18602-6ab3-44c6-8b3f-fdf6d3706c17)
  About Me
 
 I'm a passionate **Full Stack Developer** with experience in Java, Advanced Java technologies, Python, C#, and modern front-end development. I love building scalable, maintainable, and high-performance applications both on backend and frontend.
