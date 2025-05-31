@@ -4,7 +4,8 @@ README.md for Full Stack Developer Profile
 
 # 👋 Hi, I'm Ajay Kore — Full Stack Developer
 
-![image](https://github.com/user-attachments/assets/b96b0a6b-ca1b-4e0c-977b-5480371153f2)
+![Uploading image.png…]()
+
 
 ---
 
