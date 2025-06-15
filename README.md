@@ -3,7 +3,6 @@ README.md for Full Stack Developer Profile
 -->
 
 # 👋 Hi, I'm Ajay Kore — Full Stack Developer
-![programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79](https://github.com/user-attachments/assets/a6544c4b-5309-428b-8167-427d5d0189bb)
 
 
  About Me
