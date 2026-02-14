@@ -63,8 +63,8 @@ Passionate developer who loves transforming business problems into scalable tech
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=KoreAjay&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreAjay&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoreAjay&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreAjay&layout=compact&theme=default" />
 </p>
 
 ---
@@ -72,13 +72,16 @@ Passionate developer who loves transforming business problems into scalable tech
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=KoreAjay&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KoreAjay&theme=flat&no-frame=true&row=1" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 <p align="center">
   <img width="900" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
