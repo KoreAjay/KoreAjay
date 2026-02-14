@@ -60,28 +60,10 @@ Passionate developer who loves transforming business problems into scalable tech
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoreAjay&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreAjay&layout=compact&theme=default" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoreAjay&theme=flat&no-frame=true&row=1" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 <p align="center">
   <img width="900" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -91,7 +73,7 @@ Passionate developer who loves transforming business problems into scalable tech
 # 🌐 Portfolio Website
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://koreajay.github.io/ajayportfolio_/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
