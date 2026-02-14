@@ -63,16 +63,8 @@ Passionate developer who loves transforming business problems into scalable tech
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KoreAjay&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreAjay&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Coding Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoreAjay&theme=tokyo-night" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=KoreAjay&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreAjay&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,7 +72,7 @@ Passionate developer who loves transforming business problems into scalable tech
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoreAjay&theme=tokyonight&row=1&margin-w=15" />
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=KoreAjay&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -88,79 +80,8 @@ Passionate developer who loves transforming business problems into scalable tech
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KoreAjay/KoreAjay/output/github-contribution-grid-snake-dark.svg" />
+  <img width="900" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-# 📂 Featured Projects
-
-## 🏢 Building Management System
-
-**Tech:** Java • Hibernate • MySQL
-
-* Tenant complaint automation
-* Smart billing system
-* Admin analytics dashboard
-
----
-
-## 🛒 Online Grocery Management
-
-**Tech:** ASP.NET • SQL Server
-
-* Real‑time inventory
-* Secure checkout
-* Order tracking
-
----
-
-## 🎓 CampusConnect Portal
-
-**Tech:** JSP • Servlets • JDBC
-
-* Role‑based access
-* Notice management
-* Academic communication hub
-
----
-
-# 🏆 Highlights
-
-* 🔐 Authentication & Authorization
-* 📡 REST API Development
-* ⚡ Query Optimization
-* 🧩 Design Patterns
-* ☁️ Cloud Integration Basics
-
----
-
-# 📄 Resume / Portfolio
-
-<p align="left">
-  <a href="https://drive.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajay-kore-23767a258/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-</p>
-
----
-
-# ✨ Quote
-
-> “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
 
@@ -176,10 +97,10 @@ Passionate developer who loves transforming business problems into scalable tech
 
 * 🧑‍💻 Full Stack Projects Showcase
 * ⚙️ Java & .NET Enterprise Applications
-* 📊 Case Studies & System Architecture
-* 📄 Downloadable Resume
-* 📬 Contact & Hiring Information
+* 📊 Case Studies & Architecture
+* 📄 Resume Download
+* 📬 Contact Information
 
 ---
 
-⭐️ From **Ajay Kore** | Building Scalable • Secure • Future‑Ready Applications
+⭐️ From **Ajay Kore** | Building Scalable • Secure • Future‑Ready Applications **Ajay Kore** | Building Scalable • Secure • Future‑Ready Applications
