@@ -32,7 +32,7 @@ architecture.
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=Java • Spring Boot • Hibernate • REST APIs • Microservices" />
+<img src="https://skillicons.dev/icons?i=Java,Spring Boot, Hibernate, REST APIs , Microservices" />
 </p>
 
 ## 🎨 Frontend
