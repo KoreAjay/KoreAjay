@@ -10,46 +10,41 @@
 ---
 
 # 🧑‍💻 Recruiter‑Focused Summary
-
-Results‑driven **Full Stack Developer** with hands‑on experience in building scalable enterprise applications using **Java, Spring, ASP.NET, and SQL**. Adept at backend architecture, REST API development, and database optimization.
-
-✔ Strong OOP & Design Patterns
-✔ Secure Authentication Systems
-✔ Microservices & Cloud Exposure
-✔ Performance Optimization
-✔ Agile Team Collaboration
-
----
-
-# 📖 About Me
-
-Passionate developer who loves transforming business problems into scalable technical solutions.
-
-* 🔭 Working on: Enterprise Web & Cloud Apps
-* 🌱 Learning: Microservices • Spring Boot • Docker
-* 💬 Ask me about: Java, .NET, Databases
-* ⚡ Motto: Clean Code • Scalable Systems • Real Impact
-
----
+About
+Results-driven Java Developef in designing, developing, and
+deploying scalable backend applications. Skilled in Java, Spring Boot, Hibernate, and RESTful
+API development, with hands-on experience in building microservices-based systems and full-
+stack applications.
+ contributing to enterprise-level
+application development, API integration, and performance optimization. Strong understanding
+of object-oriented programming (OOP), SDLC, and database design.
+Proficient in developing secure and high-performance applications using Spring Security and
+JWT, and experienced in working with Agile methodologies. Passionate about writing clean,
+maintainable code and continuously learning new technologies.
+Key Skills:
+• Java • Spring Boot • Hibernate • REST APIs • Microservices
+• MySQL • JDBC • Spring Security • Git • Docker (Basics)
+Open to opportunities in backend development, Java development, and microservices
+architecture.
 
 # 🛠️ Tech Arsenal
 
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,python" />
+<img src="https://skillicons.dev/icons?i=Java • Spring Boot • Hibernate • REST APIs • Microservices" />
 </p>
 
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+<img src="https://skillicons.dev/icons?i=mysql,mssql,postgresql" />
 </p>
 
 ## ☁️ Tools & Cloud
