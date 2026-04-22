@@ -1,86 +1,71 @@
-# 👋 Hi, I'm Ajay Kore
+👋 Hi, I'm Ajay Kore
 
-### 🚀 Full Stack Developer | Java Specialist | Backend Architect
+🚀 Full Stack Developer | Java Specialist | Backend Architect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KoreAjay&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/KoreAjay?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=KoreAjay&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/KoreAjay?label=Followers&style=social" alt="Followers" />
 </p>
 
----
+🧑‍💻 Professional Summary
 
-# 🧑‍💻 Recruiter‑Focused Summary
-About
-Results-driven Java Developef in designing, developing, and
-deploying scalable backend applications. Skilled in Java, Spring Boot, Hibernate, and RESTful
-API development, with hands-on experience in building microservices-based systems and full-
-stack applications.
- contributing to enterprise-level
-application development, API integration, and performance optimization. Strong understanding
-of object-oriented programming (OOP), SDLC, and database design.
-Proficient in developing secure and high-performance applications using Spring Security and
-JWT, and experienced in working with Agile methodologies. Passionate about writing clean,
-maintainable code and continuously learning new technologies.
-Key Skills:
-• Java • Spring Boot • Hibernate • REST APIs • Microservices
-• MySQL • JDBC • Spring Security • Git • Docker (Basics)
-Open to opportunities in backend development, Java development, and microservices
-architecture.
+Results-driven Java Developer experienced in designing, developing, and deploying scalable backend applications. I specialize in building microservices-based systems and full-stack applications using Spring Boot, Hibernate, and RESTful APIs.
 
-# 🛠️ Tech Arsenal
+With a strong foundation in OOP, SDLC, and database design, I focus on performance optimization and secure application development using Spring Security and JWT. I am passionate about writing clean, maintainable code and thrive in Agile environments.
 
-## ⚙️ Backend
+🛠️ Tech Arsenal
+
+⚙️ Backend & Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=Java,SpringBoot,Hibernate,REST APIs,Microservices" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,hibernate,maven" alt="Backend Skills" />
 </p>
 
-## 🎨 Frontend
+🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
-## 🗄️ Database
+🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql,postgresql" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgres,mongodb" alt="Database Skills" />
 </p>
 
-## ☁️ Tools & Cloud
+☁️ Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,docker,aws,vscode,postman" alt="Tools" />
 </p>
 
----
-
-
-
-# 🐍 Contribution Snake
+🐍 GitHub Contributions
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+<img width="900" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
-
-# 🌐 Portfolio Website
+🌐 Connect & Portfolio
 
 <p align="center">
-  <a href="https://koreajay.github.io/ajayportfolio_/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<a href="https://koreajay.github.io/ajayportfolio_/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/KoreAjay" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
 </p>
 
-## 🔎 What You’ll Find There
+🔎 What You’ll Find in My Portfolio
 
-* 🧑‍💻 Full Stack Projects Showcase
-* ⚙️ Java & .NET Enterprise Applications
-* 📊 Case Studies & Architecture
-* 📄 Resume Download
-* 📬 Contact Information
+🏗️ Full Stack Projects Showcase - End-to-end applications.
 
----
+☕ Java Enterprise Apps - Scalable backend architectures.
 
-⭐️ From **Ajay Kore** | Building Scalable • Secure • Future‑Ready Applications **Ajay Kore** | Building Scalable • Secure • Future‑Ready Applications
+📊 Architecture Diagrams - How I design systems.
+
+📄 Resume - Available for download.
+
+<p align="center">
+⭐️ <i>Building Scalable • Secure • Future‑Ready Applications</i> ⭐️
+</p>
